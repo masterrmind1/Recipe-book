@@ -1,5 +1,5 @@
 
-# Recipe App 
+# Recipe Book
 
      A flexible tool which can use for restorent and it's shopping purpose in which we can add number of different dishesh their recipe, ingredients and image of recipe.
      and we can also delete the recepies and save as well.
